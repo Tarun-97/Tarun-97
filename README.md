@@ -10,11 +10,11 @@
 
 ### 📊 Real-time Momentum
 <!-- GitHub stats cards via github-readme-stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-97&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" width="400" height="195" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" height="130" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" height="150" />
 </p>
 
 ---
