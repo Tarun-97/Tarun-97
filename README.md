@@ -11,9 +11,12 @@
 ### 📊 Real-time Momentum
 <!-- GitHub stats cards via github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun-97&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun-97&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 ---
 ### LeetCode Status 
 
