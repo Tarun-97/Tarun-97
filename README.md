@@ -5,7 +5,7 @@
 
 ### 💻 My Digital Workspace
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,js,ts,node.js,mongodb,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,js,ts,nodejs,mongodb,vscode,git,github" />
 </p>
 
 ### 📊 Real-time Momentum
@@ -43,7 +43,7 @@
 ### 🤝 Connect With Me
 <p align="left">
 <a href="mailto:tarun.r.n.97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tarunrn11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tarunrn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 > **Exciting Fact:** I believe every line of code should earn its place and every system should run with intent.
