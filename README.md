@@ -11,7 +11,10 @@
 ### 📊 Real-time Momentum
 <!-- GitHub stats cards via github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=1a1b26&labelColor=7aa2f7&logo=github&label=Total%20Contributions&query=$.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2FTarun-97.json&style=for-the-badge" alt="Total Contributions Badge" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
