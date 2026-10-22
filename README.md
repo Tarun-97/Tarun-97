@@ -1,6 +1,6 @@
 # 👋 Tarun R N | Computer Science Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAC1C&width=435&lines=Backend+Web+Apps+Builder;Data+Science;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAC1C&width=435&lines=Scalable+Backend+Architectures;Data-Driven+Problem+Solver;Lifelong+Learner)
 ---
 
 ### 💻 My Digital Workspace
@@ -11,11 +11,8 @@
 ### 📊 Real-time Momentum
 <!-- GitHub stats cards via github-readme-stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=1a1b26&labelColor=7aa2f7&logo=github&label=Total%20Contributions&query=$.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2FTarun-97.json&style=for-the-badge" alt="Total Contributions Badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-97&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" width="400" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" height="195" />
 </p>
 
 ---
