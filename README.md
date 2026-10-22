@@ -1,6 +1,6 @@
 # 👋 Tarun R N | Computer Science Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAC1C&width=435&lines=Scalable+Backend+Architectures;Data-Driven+Problem+Solver;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAC1C&width=435&lines=Scalable+Backend+Developer;Data-Driven+Problem+Solver;Lifelong+Learner)
 ---
 
 ### 💻 My Digital Workspace
