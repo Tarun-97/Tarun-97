@@ -9,10 +9,11 @@
 </p>
 
 ### 📊 Real-time Momentum
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun-97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Tarun's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180px" />
-</p> -->
+<!-- GitHub stats cards via github-readme-stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarun-97&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 ### LeetCode Status 
