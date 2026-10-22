@@ -5,7 +5,7 @@
 
 ### 💻 My Digital Workspace
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,js,ts,node,mongodb,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,js,ts,node.js,mongodb,vscode,git,github" />
 </p>
 
 ### 📊 Real-time Momentum
@@ -13,7 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tarun-97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Tarun's Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-97&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180px" />
 </p> -->
-![My Professional Stats](/github-metrics.svg)
 
 ---
 ### LeetCode Status 
